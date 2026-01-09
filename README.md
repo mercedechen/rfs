@@ -1,1 +1,3 @@
-# rfs
+# Request for Service Form
+
+Users can see a "Request for Service" form with editable fields and can preview the template as fields are completed in real-time. All required fields will need to be completed. Users will then be able to copy the content to the clipboard with a single click of a button for easy pasting into emails, documents, or other text forms. This makes submitted requests faster, reduces errors, and ensures consistency.
